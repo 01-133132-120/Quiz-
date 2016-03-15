@@ -1,0 +1,6 @@
+c:\users\mshome\documents\visual studio 2013\Projects\quiz questions practice\quiz questions practice\bin\Debug\quiz questions practice.exe.config
+c:\users\mshome\documents\visual studio 2013\Projects\quiz questions practice\quiz questions practice\bin\Debug\quiz questions practice.exe
+c:\users\mshome\documents\visual studio 2013\Projects\quiz questions practice\quiz questions practice\bin\Debug\quiz questions practice.pdb
+c:\users\mshome\documents\visual studio 2013\Projects\quiz questions practice\quiz questions practice\obj\Debug\quiz questions practice.csprojResolveAssemblyReference.cache
+c:\users\mshome\documents\visual studio 2013\Projects\quiz questions practice\quiz questions practice\obj\Debug\quiz questions practice.exe
+c:\users\mshome\documents\visual studio 2013\Projects\quiz questions practice\quiz questions practice\obj\Debug\quiz questions practice.pdb
